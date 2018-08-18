@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi my name is Rohan, I'm 16 years old, I'm studying in CTC School.
+I'm learning Python and Web Development.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I love watching videos on Youtube.
 
 ### Contact me
 
